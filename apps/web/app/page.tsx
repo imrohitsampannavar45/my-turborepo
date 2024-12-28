@@ -35,7 +35,7 @@ export default function Home() {
           <li>
             Get started by editing <code>apps/web/app/page.tsx</code>
           </li>
-          <li>Save and see your changes instantly.</li>
+          <li> and see your changes instantly.</li>
         </ol>
 
         <div className={styles.ctas}>
@@ -60,7 +60,7 @@ export default function Home() {
             rel="noopener noreferrer"
             className={styles.secondary}
           >
-            Read our docs
+            Read My docs
           </a>
         </div>
         <Button appName="web" className={styles.secondary}>
